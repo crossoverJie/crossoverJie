@@ -13,6 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Go 日常开发常备第三方库和工具](http://crossoverjie.top/2021/11/02/go/go-lib/)
+- [Go 里的超时控制](http://crossoverjie.top/2021/10/28/go/go-timeout/)
+- [观察者模式的实际应用](http://crossoverjie.top/2021/09/02/go/observer/)
+- [切片 slice 原理分析](http://crossoverjie.top/2021/07/28/go/slice%20pointer/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
