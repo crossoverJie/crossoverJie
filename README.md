@@ -39,4 +39,4 @@
 [![Blog](https://img.shields.io/badge/Blog-Gopher%2FJavaer-orange)](https://crossoverjie.top/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:crossoverjie@gmail.com)
 <br/>
-<img src="https://i.loli.net/2021/10/12/ckQW9LYXSxFogJZ.jpg" style="width:150px;height:150px;" />
+<img src="https://crossoverjie.top/uploads/index4.jpg" style="width:150px;height:150px;" />
