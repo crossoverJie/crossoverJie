@@ -19,7 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [简单的 for 循环也会踩的坑](http://crossoverjie.top/2021/12/29/go/for-mistake/)
+- [简单的 for 循环也会踩的坑](http://crossoverjie.top/2021/12/28/go/for-mistake/)
 - [用 Go 实现一个 LRU cache](http://crossoverjie.top/2021/12/20/go/lru-cache/)
 - [撸了一个可调试 gRPC 的 GUI 客户端](http://crossoverjie.top/2021/11/28/go/go-grpc-client-gui/)
 - [编写一个接口压测工具](http://crossoverjie.top/2021/11/15/go/go-benchmark-test/)
