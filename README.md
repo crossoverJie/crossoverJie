@@ -19,7 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [【译】可能你不知道但却有用的 Java 特性](http://crossoverjie.top/2022/01/18/translation/useful-unknown-java-features/)
+- [【译】你可能不知道但却很有用的 Java 特性](http://crossoverjie.top/2022/01/18/translation/useful-unknown-java-features/)
 - [简单的 for 循环也会踩的坑](http://crossoverjie.top/2021/12/28/go/for-mistake/)
 - [用 Go 实现一个 LRU cache](http://crossoverjie.top/2021/12/20/go/lru-cache/)
 - [撸了一个可调试 gRPC 的 GUI 客户端](http://crossoverjie.top/2021/11/28/go/go-grpc-client-gui/)
