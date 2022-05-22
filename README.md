@@ -19,7 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [SpringCloud Feign 实现动态 URL](http://crossoverjie.top/2022/05/22/troubleshoot/SpringCloud-Feign-dynamic-url/)
+- [SpringCloud Feign 实现动态 URL](http://crossoverjie.top/2022/05/23/troubleshoot/SpringCloud-Feign-dynamic-url/)
 - [撸了一个 Feign 增强包 V2.0 升级版](http://crossoverjie.top/2022/05/06/wheel/feign-plus2/)
 - [Pulsar 重复消费?](http://crossoverjie.top/2022/03/18/troubleshoot/pulsar-repeat-consume/)
 - [5分钟学会 gRPC](http://crossoverjie.top/2022/03/08/framework-design/grpc/)
