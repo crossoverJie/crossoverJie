@@ -19,12 +19,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [SpringCloud Feign 实现动态 URL](http://crossoverjie.top/2022/05/22/troubleshoot/SpringCloud-Feign-dynamic-url/)
 - [撸了一个 Feign 增强包 V2.0 升级版](http://crossoverjie.top/2022/05/06/wheel/feign-plus2/)
 - [Pulsar 重复消费?](http://crossoverjie.top/2022/03/18/troubleshoot/pulsar-repeat-consume/)
 - [5分钟学会 gRPC](http://crossoverjie.top/2022/03/08/framework-design/grpc/)
 - [【译】Java8 之后对新开发者非常友好的特性盘点](http://crossoverjie.top/2022/02/07/translation/new-developer-friendly-features-after-java-8/)
 - [2021 年度报告](http://crossoverjie.top/2022/01/27/annual-summary/2021/)
-- [【译】你可能不知道但却很有用的 Java 特性](http://crossoverjie.top/2022/01/18/translation/useful-unknown-java-features/)
 <!-- BLOG-POST-LIST:END -->
 
 
