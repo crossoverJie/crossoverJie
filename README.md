@@ -14,7 +14,7 @@
 ### 👀 Active Go Repo
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=crossoverjie&repo=ptg)](https://github.com/crossoverJie/ptg)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=crossoverjie&repo=btb)](https://github.com/crossoverJie/btb)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=crossoverjie&repo=gscript)](https://github.com/crossoverJie/gscript)
 
 
 ### Blogs posts
