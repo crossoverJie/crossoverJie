@@ -16,6 +16,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=crossoverjie&repo=gjson)](https://github.com/crossoverJie/gjson)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=crossoverjie&repo=ptg)](https://github.com/crossoverJie/ptg)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=crossoverjie&repo=gscript)](https://github.com/crossoverJie/gscript)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=crossoverjie&repo=distributed-redis-tool)](https://github.com/crossoverJie/distributed-redis-tool)
 
 
 
