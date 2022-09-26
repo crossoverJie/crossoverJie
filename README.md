@@ -22,12 +22,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [手写编程语言-递归函数是如何实现的](http://crossoverjie.top/2022/09/27/gscript/gscript07-return/)
 - [手写编程语言-实现运算符重载](http://crossoverjie.top/2022/09/18/gscript/gscript06-operator-overloading/)
 - [用自己的编程语言实现了一个网站](http://crossoverjie.top/2022/09/14/gscript/gscript05-write-site/)
 - [终于实现了一门属于自己的编程语言](http://crossoverjie.top/2022/09/07/gscript/gscript04-preview/)
 - [自己动手写脚本解释器--实现作用域与函数调用](http://crossoverjie.top/2022/08/17/gscript/gscript03-scope-func/)
 - [用 Antlr 重构脚本解释器](http://crossoverjie.top/2022/08/08/gscript/gscript02-antlr-statement/)
-- [用位运算为你的程序加速](http://crossoverjie.top/2022/08/01/gjson/xjson04-bitwisee-operation/)
 <!-- BLOG-POST-LIST:END -->
 
 
