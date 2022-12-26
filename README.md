@@ -27,12 +27,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [模板方法实践](http://crossoverjie.top/2022/12/27/desigin-patterns/template-method/)
 - [深入理解闭包实现原理](http://crossoverjie.top/2022/10/24/gscript/gscript11-closure/)
 - [如何为 GScript 编写标准库](http://crossoverjie.top/2022/10/15/gscript/gscript10-write-native-lib/)
 - [用自己的编程语言实现了一个网站（增强版）](http://crossoverjie.top/2022/10/08/gscript/gscript08-write-site-enhance/)
 - [手写编程语言-递归函数是如何实现的？](http://crossoverjie.top/2022/09/27/gscript/gscript07-return/)
 - [手写编程语言-实现运算符重载](http://crossoverjie.top/2022/09/18/gscript/gscript06-operator-overloading/)
-- [用自己的编程语言实现了一个网站](http://crossoverjie.top/2022/09/14/gscript/gscript05-write-site/)
 <!-- BLOG-POST-LIST:END -->
 
 
