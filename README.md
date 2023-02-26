@@ -26,12 +26,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [通过 Pulsar 源码彻底解决重复消费问题](http://crossoverjie.top/2023/02/27/pulsar/pulsar-repeat-consume/)
 - [一个诡异的 Pulsar InterruptedException 异常](http://crossoverjie.top/2023/02/23/pulsar/pulsar-interrupted/)
 - [Istio 升级后踩的坑](http://crossoverjie.top/2023/02/20/istio/istio1.12-upgrade-fix/)
 - [Pulsar负载均衡原理及优化](http://crossoverjie.top/2023/02/07/pulsar/pulsar-load-banance/)
 - [2022 年度总结](http://crossoverjie.top/2023/01/18/annual-summary/2022/)
 - [Pulsar压测及优化](http://crossoverjie.top/2023/01/16/pulsar/pulsar-perf-test/)
-- [模板方法实践](http://crossoverjie.top/2022/12/27/desigin-patterns/template-method/)
 <!-- BLOG-POST-LIST:END -->
 
 
