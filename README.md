@@ -26,12 +26,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [在这个大环境下我是如何找工作的](http://crossoverjie.top/2023/06/20/personal/find-job-experience/)
 - [云原生背景下如何配置 JVM 内存](http://crossoverjie.top/2023/05/15/k8s/cloudnative-java/)
 - [从源码彻底理解 Prometheus/VictoriaMetrics 中的 relabel_configs/metric_relabel_configs 配置](http://crossoverjie.top/2023/03/13/metrics/relabel_configs_%20metric_relabel_configs/)
 - [通过 Pulsar 源码彻底解决重复消费问题](http://crossoverjie.top/2023/02/27/pulsar/pulsar-repeat-consume/)
 - [一个诡异的 Pulsar InterruptedException 异常](http://crossoverjie.top/2023/02/23/pulsar/pulsar-interrupted/)
 - [Istio 升级后踩的坑](http://crossoverjie.top/2023/02/20/istio/istio1.12-upgrade-fix/)
-- [Pulsar负载均衡原理及优化](http://crossoverjie.top/2023/02/07/pulsar/pulsar-load-banance/)
 <!-- BLOG-POST-LIST:END -->
 
 
