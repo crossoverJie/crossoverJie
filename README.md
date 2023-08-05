@@ -26,12 +26,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [新手如何参与开源项目](http://crossoverjie.top/2023/08/05/ob/novice-contribute-open-source/)
 - [从 Pulsar Client 的原理到它的监控面板](http://crossoverjie.top/2023/08/03/ob/Pulsar-Client/)
 - [使用 ChatGPT 碰到的坑](http://crossoverjie.top/2023/07/18/ob/ChatGPT-hole/)
 - [Grafana 变量转义处理](http://crossoverjie.top/2023/06/26/k8s/grafana-variable/)
 - [在这个大环境下我是如何找工作的](http://crossoverjie.top/2023/06/20/personal/find-job-experience/)
 - [云原生背景下如何配置 JVM 内存](http://crossoverjie.top/2023/05/15/k8s/cloudnative-java/)
-- [从源码彻底理解 Prometheus/VictoriaMetrics 中的 relabel_configs/metric_relabel_configs 配置](http://crossoverjie.top/2023/03/13/metrics/relabel_configs_%20metric_relabel_configs/)
 <!-- BLOG-POST-LIST:END -->
 
 
