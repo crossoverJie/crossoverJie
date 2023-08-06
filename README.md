@@ -26,7 +26,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [新手如何参与开源项目](http://crossoverjie.top/2023/08/05/ob/novice-contribute-open-source/)
+- [新手如何快速参与开源项目](http://crossoverjie.top/2023/08/05/ob/novice-contribute-open-source/)
 - [从 Pulsar Client 的原理到它的监控面板](http://crossoverjie.top/2023/08/03/ob/Pulsar-Client/)
 - [使用 ChatGPT 碰到的坑](http://crossoverjie.top/2023/07/18/ob/ChatGPT-hole/)
 - [Grafana 变量转义处理](http://crossoverjie.top/2023/06/26/k8s/grafana-variable/)
