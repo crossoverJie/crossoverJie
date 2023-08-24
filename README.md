@@ -26,12 +26,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [VictoriaLogs：一款超低占用的 ElasticSearch 替代方案](http://crossoverjie.top/2023/08/23/ob/VictoriaLogs-Intro/)
 - [k8s 常见面试题 01](http://crossoverjie.top/2023/08/17/ob/k8s-question-01/)
 - [新手如何快速参与开源项目](http://crossoverjie.top/2023/08/05/ob/novice-contribute-open-source/)
 - [从 Pulsar Client 的原理到它的监控面板](http://crossoverjie.top/2023/08/03/ob/Pulsar-Client/)
 - [使用 ChatGPT 碰到的坑](http://crossoverjie.top/2023/07/18/ob/ChatGPT-hole/)
 - [Grafana 变量转义处理](http://crossoverjie.top/2023/06/26/k8s/grafana-variable/)
-- [在这个大环境下我是如何找工作的](http://crossoverjie.top/2023/06/20/personal/find-job-experience/)
 <!-- BLOG-POST-LIST:END -->
 
 
