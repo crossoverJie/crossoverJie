@@ -27,11 +27,11 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Golang 基础面试题 01](http://crossoverjie.top/2023/09/12/ob/Golang-interview-01/)
+- [k8s 实战-配置 Ingress](http://crossoverjie.top/2023/09/11/ob/k8s-Ingress/)
 - [k8s入门到实战--跨服务调用](http://crossoverjie.top/2023/09/05/ob/k8s-service/)
 - [k8s 入门到实战--部署应用到 k8s](http://crossoverjie.top/2023/08/31/ob/k8s-0-start/)
 - [使用 SQL 的方式查询消息队列数据以及踩坑指南](http://crossoverjie.top/2023/08/30/ob/Pulsar-SQL/)
 - [VictoriaLogs：一款超低占用的 ElasticSearch 替代方案](http://crossoverjie.top/2023/08/23/ob/VictoriaLogs-Intro/)
-- [k8s 常见面试题 01](http://crossoverjie.top/2023/08/17/ob/k8s-question-01/)
 <!-- BLOG-POST-LIST:END -->
 
 
