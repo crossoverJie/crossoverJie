@@ -26,7 +26,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [k8s-入门到实战-应用配置](http://crossoverjie.top/2023/09/26/ob/k8s-%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E6%88%98-%E5%BA%94%E7%94%A8%E9%85%8D%E7%BD%AE/)
+- [k8s入门到实战-应用配置](http://crossoverjie.top/2023/09/26/ob/k8s-configmap/)
 - [Go 语言史诗级更新-循环Bug修复](http://crossoverjie.top/2023/09/24/ob/go-loop-fix/)
 - [Github commit 签名+合并 Commit](http://crossoverjie.top/2023/09/18/ob/git-tips-rebase/)
 - [k8s入门到实战-使用Ingress](http://crossoverjie.top/2023/09/15/ob/k8s-Ingress/)
