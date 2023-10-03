@@ -26,7 +26,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [podcasts-english-0-vim](http://crossoverjie.top/2023/10/02/ob/podcasts-english-0-vim/)
+- [跟着播客学英语-Why I use vim ? part one.](http://crossoverjie.top/2023/10/02/ob/podcasts-english-0-vim/)
 - [k8s入门到实战-应用配置](http://crossoverjie.top/2023/09/26/ob/k8s-configmap/)
 - [Go 语言史诗级更新-循环Bug修复](http://crossoverjie.top/2023/09/24/ob/go-loop-fix/)
 - [Github commit 签名+合并 Commit](http://crossoverjie.top/2023/09/18/ob/git-tips-rebase/)
