@@ -26,12 +26,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [跟着播客学英语-Why I use vim ? part two.](http://crossoverjie.top/2023/10/06/ob/podcasts-english-1-vim/)
 - [跟着播客学英语-Why I use vim ? part one.](http://crossoverjie.top/2023/10/02/ob/podcasts-english-0-vim/)
 - [k8s入门到实战-应用配置](http://crossoverjie.top/2023/09/26/ob/k8s-configmap/)
 - [Go 语言史诗级更新-循环Bug修复](http://crossoverjie.top/2023/09/24/ob/go-loop-fix/)
 - [Github commit 签名+合并 Commit](http://crossoverjie.top/2023/09/18/ob/git-tips-rebase/)
 - [k8s入门到实战-使用Ingress](http://crossoverjie.top/2023/09/15/ob/k8s-Ingress/)
-- [Golang 基础面试题 01](http://crossoverjie.top/2023/09/12/ob/Golang-interview-01/)
 <!-- BLOG-POST-LIST:END -->
 
 
