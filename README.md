@@ -26,12 +26,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [在 kubernetes 环境中实现 gRPC 负载均衡](http://crossoverjie.top/2023/10/16/ob/k8s-grpc-lb/)
 - [技术阅读周刊第一期](http://crossoverjie.top/2023/10/13/ob/newsletter/Newsletter01-20231013/)
 - [使用 Helm 管理应用的一些 Tips](http://crossoverjie.top/2023/10/07/ob/Helm-tips/)
 - [跟着播客学英语-Why I use vim ? part two.](http://crossoverjie.top/2023/10/06/ob/podcasts-english-1-vim/)
 - [跟着播客学英语-Why I use vim ? part one.](http://crossoverjie.top/2023/10/02/ob/podcasts-english-0-vim/)
 - [k8s入门到实战-应用配置](http://crossoverjie.top/2023/09/26/ob/k8s-configmap/)
-- [Go 语言史诗级更新-循环Bug修复](http://crossoverjie.top/2023/09/24/ob/go-loop-fix/)
 <!-- BLOG-POST-LIST:END -->
 
 
