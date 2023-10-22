@@ -26,12 +26,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [技术阅读周刊第二期](http://crossoverjie.top/2023/10/22/ob/newsletter/Newsletter02-20231022/)
 - [如何优雅重启 kubernetes 的 Pod](http://crossoverjie.top/2023/10/19/ob/k8s-restart-pod/)
 - [在 kubernetes 环境中实现 gRPC 负载均衡](http://crossoverjie.top/2023/10/16/ob/k8s-grpc-lb/)
 - [技术阅读周刊第一期](http://crossoverjie.top/2023/10/13/ob/newsletter/Newsletter01-20231013/)
 - [使用 Helm 管理应用的一些 Tips](http://crossoverjie.top/2023/10/07/ob/Helm-tips/)
 - [跟着播客学英语-Why I use vim ? part two.](http://crossoverjie.top/2023/10/06/ob/podcasts-english-1-vim/)
-- [跟着播客学英语-Why I use vim ? part one.](http://crossoverjie.top/2023/10/02/ob/podcasts-english-0-vim/)
 <!-- BLOG-POST-LIST:END -->
 
 
