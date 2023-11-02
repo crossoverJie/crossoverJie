@@ -26,12 +26,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [技术阅读周刊第第四期](http://crossoverjie.top/2023/11/03/ob/newsletter/Newsletter04-20231103/)
 - [k8s-服务网格实战-入门Istio](http://crossoverjie.top/2023/10/31/ob/k8s-Istio01/)
 - [技术阅读周刊第三期](http://crossoverjie.top/2023/10/27/ob/newsletter/Newsletter03-20231027/)
 - [技术阅读周刊第二期](http://crossoverjie.top/2023/10/22/ob/newsletter/Newsletter02-20231022/)
 - [如何优雅重启 kubernetes 的 Pod](http://crossoverjie.top/2023/10/19/ob/k8s-restart-pod/)
 - [在 kubernetes 环境中实现 gRPC 负载均衡](http://crossoverjie.top/2023/10/16/ob/k8s-grpc-lb/)
-- [技术阅读周刊第一期](http://crossoverjie.top/2023/10/13/ob/newsletter/Newsletter01-20231013/)
 <!-- BLOG-POST-LIST:END -->
 
 
