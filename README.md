@@ -26,12 +26,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [技术阅读周刊第第5️⃣期](http://crossoverjie.top/2023/11/10/ob/newsletter/Newsletter05-20231110/)
 - [k8s-服务网格实战-配置 Mesh（灰度发布）](http://crossoverjie.top/2023/11/07/ob/k8s-Istio02/)
 - [技术阅读周刊第第四期](http://crossoverjie.top/2023/11/03/ob/newsletter/Newsletter04-20231103/)
 - [k8s-服务网格实战-入门Istio](http://crossoverjie.top/2023/10/31/ob/k8s-Istio01/)
 - [技术阅读周刊第三期](http://crossoverjie.top/2023/10/27/ob/newsletter/Newsletter03-20231027/)
 - [技术阅读周刊第二期](http://crossoverjie.top/2023/10/22/ob/newsletter/Newsletter02-20231022/)
-- [如何优雅重启 kubernetes 的 Pod](http://crossoverjie.top/2023/10/19/ob/k8s-restart-pod/)
 <!-- BLOG-POST-LIST:END -->
 
 
