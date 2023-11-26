@@ -26,12 +26,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [k8s入门到实战-应用探针](http://crossoverjie.top/2023/11/25/ob/k8s-probe/)
 - [技术阅读周刊第第7️⃣期](http://crossoverjie.top/2023/11/24/ob/newsletter/Newsletter07-20231124/)
 - [升级到 Pulsar3.0 后深入了解 JWT 鉴权](http://crossoverjie.top/2023/11/19/ob/Pulsar-JWT/)
 - [技术阅读周刊第第6️⃣期](http://crossoverjie.top/2023/11/17/ob/newsletter/Newsletter06-20231117/)
 - [k8s实战-Istio 网关](http://crossoverjie.top/2023/11/13/ob/k8s-istio03/)
 - [技术阅读周刊第第5️⃣期](http://crossoverjie.top/2023/11/10/ob/newsletter/Newsletter05-20231110/)
-- [k8s-服务网格实战-配置 Mesh（灰度发布）](http://crossoverjie.top/2023/11/07/ob/k8s-Istio02/)
 <!-- BLOG-POST-LIST:END -->
 
 
