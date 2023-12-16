@@ -26,12 +26,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [技术阅读周刊第🔟期](http://crossoverjie.top/2023/12/15/ob/newsletter/Newsletter10-20231215/)
 - [如何编写一个 Pulsar Broker Interceptor 插件](http://crossoverjie.top/2023/12/11/ob/Pulsar-Broker-Interceptor/)
 - [技术阅读周刊第9️⃣期](http://crossoverjie.top/2023/12/08/ob/newsletter/Newsletter09-20231208/)
 - [技术阅读周刊第8️⃣期](http://crossoverjie.top/2023/12/01/ob/newsletter/Newsletter08-20231201/)
 - [k8s入门到实战-滚动更新与优雅停机](http://crossoverjie.top/2023/11/29/ob/k8s-rollout/)
 - [k8s入门到实战-应用探针](http://crossoverjie.top/2023/11/25/ob/k8s-probe/)
-- [技术阅读周刊第第7️⃣期](http://crossoverjie.top/2023/11/24/ob/newsletter/Newsletter07-20231124/)
 <!-- BLOG-POST-LIST:END -->
 
 
