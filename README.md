@@ -26,12 +26,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Pulsar3.0新功能介绍](http://crossoverjie.top/2024/01/03/ob/Pulsar3.0-new-feature/)
 - [技术阅读周刊第十二期](http://crossoverjie.top/2023/12/29/ob/newsletter/Newsletter12-20231229/)
 - [Pulsar3.0 升级指北](http://crossoverjie.top/2023/12/24/ob/Pulsar3.0-upgrade/)
 - [技术阅读周刊第十一期](http://crossoverjie.top/2023/12/22/ob/newsletter/Newsletter10-20231222/)
 - [如何给开源项目发起提案](http://crossoverjie.top/2023/12/21/ob/Pulsar%20Proposal/)
 - [技术阅读周刊第🔟期](http://crossoverjie.top/2023/12/15/ob/newsletter/Newsletter10-20231215/)
-- [如何编写一个 Pulsar Broker Interceptor 插件](http://crossoverjie.top/2023/12/11/ob/Pulsar-Broker-Interceptor/)
 <!-- BLOG-POST-LIST:END -->
 
 
