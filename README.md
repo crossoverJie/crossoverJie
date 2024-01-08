@@ -26,12 +26,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [请注意，你的 Pulsar 集群可能有删除数据的风险](http://crossoverjie.top/2024/01/09/ob/Pulsar-Delete-Topic/)
 - [技术阅读周刊第十三期：一些提高生产力的终端命令](http://crossoverjie.top/2024/01/05/ob/newsletter/Newsletter12-20240105/)
 - [Pulsar3.0新功能介绍](http://crossoverjie.top/2024/01/03/ob/Pulsar3.0-new-feature/)
 - [技术阅读周刊第十二期](http://crossoverjie.top/2023/12/29/ob/newsletter/Newsletter12-20231229/)
 - [Pulsar3.0 升级指北](http://crossoverjie.top/2023/12/24/ob/Pulsar3.0-upgrade/)
 - [技术阅读周刊第十一期](http://crossoverjie.top/2023/12/22/ob/newsletter/Newsletter10-20231222/)
-- [如何给开源项目发起提案](http://crossoverjie.top/2023/12/21/ob/Pulsar%20Proposal/)
 <!-- BLOG-POST-LIST:END -->
 
 
