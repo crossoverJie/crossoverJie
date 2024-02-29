@@ -26,12 +26,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [技术阅读周刊第十四期：](http://crossoverjie.top/2024/02/29/ob/newsletter/Newsletter14-20240223/)
 - [【译】Apache Pulsar 3.2.0 发布](http://crossoverjie.top/2024/02/27/ob/translate-pulsar-3.2.0/)
 - [我的 2023](http://crossoverjie.top/2024/02/17/annual-summary/2023/)
 - [【译】Apache Pulsar 2023 年度回顾](http://crossoverjie.top/2024/01/26/ob/translate-pulsar-2023-year-in-review/)
 - [手把手教你为开源项目贡献代码](http://crossoverjie.top/2024/01/25/ob/create-a-plugin-for-cprobe/)
 - [白话 Pulsar Bookkeeper 的存储模型](http://crossoverjie.top/2024/01/15/ob/Bookkeeper-storage/)
-- [技术阅读周刊第十四期：Golang 作者 Rob Pike 在 GopherConAU 上的分享](http://crossoverjie.top/2024/01/12/ob/newsletter/Newsletter12-202401012/)
 <!-- BLOG-POST-LIST:END -->
 
 
