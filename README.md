@@ -26,12 +26,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [实战：如何优雅的从 Skywalking 切换到 OpenTelemetry](http://crossoverjie.top/2024/04/07/ob/otel-replace-sw/)
 - [在 kubernetes 环境下如何优雅扩缩容 Pulsar](http://crossoverjie.top/2024/03/27/ob/k8s-pulsar-scale/)
 - [顶级开源社区都能吵起来？](http://crossoverjie.top/2024/03/20/ob/about-opensource-argument/)
 - [技术阅读周刊第十四期：常用的 Git 配置](http://crossoverjie.top/2024/02/29/ob/newsletter/Newsletter14-20240223/)
 - [【译】Apache Pulsar 3.2.0 发布](http://crossoverjie.top/2024/02/27/ob/translate-pulsar-3.2.0/)
 - [我的 2023](http://crossoverjie.top/2024/02/17/annual-summary/2023/)
-- [【译】Apache Pulsar 2023 年度回顾](http://crossoverjie.top/2024/01/26/ob/translate-pulsar-2023-year-in-review/)
 <!-- BLOG-POST-LIST:END -->
 
 
