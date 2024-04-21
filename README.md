@@ -26,12 +26,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [在 kubernetes 环境下如何采集日志](http://crossoverjie.top/2024/04/21/ob/k8s-log-collect/)
 - [实战：如何编写一个 OpenTelemetry Extensions](http://crossoverjie.top/2024/04/15/ob/how-to-write-otel-extensions/)
 - [2024年的云原生架构需要哪些技术栈](http://crossoverjie.top/2024/04/11/ob/2024-cloud-native/)
 - [实战：如何优雅的从 Skywalking 切换到 OpenTelemetry](http://crossoverjie.top/2024/04/07/ob/otel-replace-sw/)
 - [在 kubernetes 环境下如何优雅扩缩容 Pulsar](http://crossoverjie.top/2024/03/27/ob/k8s-pulsar-scale/)
 - [顶级开源社区都能吵起来？](http://crossoverjie.top/2024/03/20/ob/about-opensource-argument/)
-- [技术阅读周刊第十四期：常用的 Git 配置](http://crossoverjie.top/2024/02/29/ob/newsletter/Newsletter14-20240223/)
 <!-- BLOG-POST-LIST:END -->
 
 
