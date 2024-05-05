@@ -26,12 +26,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [如何对 kubernetes 应用做 e2e&lpar;端到端&rpar; 测试](http://crossoverjie.top/2024/05/05/ob/operator-e2e-test/)
 - [一次消息队列异常堆积的排查](http://crossoverjie.top/2024/04/29/ob/pulsar-slow-consume/)
 - [在 kubernetes 环境下如何采集日志](http://crossoverjie.top/2024/04/21/ob/k8s-log-collect/)
 - [实战：如何编写一个 OpenTelemetry Extensions](http://crossoverjie.top/2024/04/15/ob/how-to-write-otel-extensions/)
 - [2024年的云原生架构需要哪些技术栈](http://crossoverjie.top/2024/04/11/ob/2024-cloud-native/)
 - [实战：如何优雅的从 Skywalking 切换到 OpenTelemetry](http://crossoverjie.top/2024/04/07/ob/otel-replace-sw/)
-- [在 kubernetes 环境下如何优雅扩缩容 Pulsar](http://crossoverjie.top/2024/03/27/ob/k8s-pulsar-scale/)
 <!-- BLOG-POST-LIST:END -->
 
 
