@@ -26,12 +26,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [实操 OpenTelemetry：通过 Demo 掌握微服务监控的艺术](http://crossoverjie.top/2024/05/26/ob/OTel-demo/)
 - [OpenTelemetry 实践指南：历史、架构与基本概念](http://crossoverjie.top/2024/05/21/ob/OpenTelemetry-getstart/)
 - [从一个 JDK21+OpenTelemetry 不兼容的问题讲起](http://crossoverjie.top/2024/05/13/ob/jdk21+springboot+OTel+SPI/)
 - [如何对 kubernetes 应用做 e2e&lpar;端到端&rpar; 测试](http://crossoverjie.top/2024/05/05/ob/operator-e2e-test/)
 - [一次消息队列异常堆积的排查](http://crossoverjie.top/2024/04/29/ob/pulsar-slow-consume/)
 - [在 kubernetes 环境下如何采集日志](http://crossoverjie.top/2024/04/21/ob/k8s-log-collect/)
-- [实战：如何编写一个 OpenTelemetry Extensions](http://crossoverjie.top/2024/04/15/ob/how-to-write-otel-extensions/)
 <!-- BLOG-POST-LIST:END -->
 
 
