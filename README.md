@@ -26,12 +26,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [从 Prometheus 到 OpenTelemetry：指标监控的演进与实践](http://crossoverjie.top/2024/06/13/ob/OpenTelemetry-metrics-concept/)
 - [从 Dapper 到 OpenTelemetry：分布式追踪的演进之旅](http://crossoverjie.top/2024/06/06/ob/OpenTelemetry-trace-concept/)
 - [【译】几个你或许并不知道 kubernetes 技巧](http://crossoverjie.top/2024/06/03/ob/Kubernetes-tricks/)
 - [实操 OpenTelemetry：通过 Demo 掌握微服务监控的艺术](http://crossoverjie.top/2024/05/26/ob/OTel-demo/)
 - [OpenTelemetry 实践指南：历史、架构与基本概念](http://crossoverjie.top/2024/05/21/ob/OpenTelemetry-getstart/)
 - [从一个 JDK21+OpenTelemetry 不兼容的问题讲起](http://crossoverjie.top/2024/05/13/ob/jdk21+springboot+OTel+SPI/)
-- [如何对 kubernetes 应用做 e2e&lpar;端到端&rpar; 测试](http://crossoverjie.top/2024/05/05/ob/operator-e2e-test/)
 <!-- BLOG-POST-LIST:END -->
 
 
