@@ -26,12 +26,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [如何找到并快速上手一个开源项目](http://crossoverjie.top/2024/07/01/ob/how-to-involve-OpenSource/)
 - [OpenTelemetry 深度定制：跨服务追踪的实战技巧](http://crossoverjie.top/2024/06/26/ob/OpenTelemetry-custom-instrument/)
 - [从 Prometheus 到 OpenTelemetry：指标监控的演进与实践](http://crossoverjie.top/2024/06/13/ob/OpenTelemetry-metrics-concept/)
 - [从 Dapper 到 OpenTelemetry：分布式追踪的演进之旅](http://crossoverjie.top/2024/06/06/ob/OpenTelemetry-trace-concept/)
 - [【译】几个你或许并不知道 kubernetes 技巧](http://crossoverjie.top/2024/06/03/ob/Kubernetes-tricks/)
 - [实操 OpenTelemetry：通过 Demo 掌握微服务监控的艺术](http://crossoverjie.top/2024/05/26/ob/OTel-demo/)
-- [OpenTelemetry 实践指南：历史、架构与基本概念](http://crossoverjie.top/2024/05/21/ob/OpenTelemetry-getstart/)
 <!-- BLOG-POST-LIST:END -->
 
 
