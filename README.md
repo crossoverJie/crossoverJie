@@ -26,12 +26,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [✅开源项目如何做集成测试](http://crossoverjie.top/2024/07/09/ob/%E2%9C%85%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%A6%82%E4%BD%95%E5%81%9A%E9%9B%86%E6%88%90%E6%B5%8B%E8%AF%95/)
 - [从 Helm 到 Operator：Kubernetes应用管理的进化](http://crossoverjie.top/2024/07/08/ob/how-operator-working/)
 - [【译】五个我最近在 Go 里学到的小技巧](http://crossoverjie.top/2024/07/02/ob/go-5-tips/)
 - [如何找到并快速上手一个开源项目](http://crossoverjie.top/2024/07/01/ob/how-to-involve-OpenSource/)
 - [OpenTelemetry 深度定制：跨服务追踪的实战技巧](http://crossoverjie.top/2024/06/26/ob/OpenTelemetry-custom-instrument/)
 - [从 Prometheus 到 OpenTelemetry：指标监控的演进与实践](http://crossoverjie.top/2024/06/13/ob/OpenTelemetry-metrics-concept/)
-- [从 Dapper 到 OpenTelemetry：分布式追踪的演进之旅](http://crossoverjie.top/2024/06/06/ob/OpenTelemetry-trace-concept/)
 <!-- BLOG-POST-LIST:END -->
 
 
