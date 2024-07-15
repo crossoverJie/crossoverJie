@@ -26,12 +26,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [分布式系统如何做负载均衡](http://crossoverjie.top/2024/07/15/ob/Pulsar-loadbalance/)
 - [🎉我是如何从零到成为 Apache 顶级项目的 Committer](http://crossoverjie.top/2024/07/11/ob/%F0%9F%8E%89how-to-be-committer/)
 - [✅开源项目如何做集成测试](http://crossoverjie.top/2024/07/09/ob/%E2%9C%85%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%A6%82%E4%BD%95%E5%81%9A%E9%9B%86%E6%88%90%E6%B5%8B%E8%AF%95/)
 - [从 Helm 到 Operator：Kubernetes应用管理的进化](http://crossoverjie.top/2024/07/08/ob/how-operator-working/)
 - [【译】五个我最近在 Go 里学到的小技巧](http://crossoverjie.top/2024/07/02/ob/go-5-tips/)
 - [如何找到并快速上手一个开源项目](http://crossoverjie.top/2024/07/01/ob/how-to-involve-OpenSource/)
-- [OpenTelemetry 深度定制：跨服务追踪的实战技巧](http://crossoverjie.top/2024/06/26/ob/OpenTelemetry-custom-instrument/)
 <!-- BLOG-POST-LIST:END -->
 
 
