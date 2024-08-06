@@ -26,12 +26,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Pulsar升级自动化：一键搞定集群升级与测试](http://crossoverjie.top/2024/08/06/ob/Pulsar%20test%20framework/)
 - [Pulsar客户端消费模式揭秘：Go 语言实现 ZeroQueueConsumer](http://crossoverjie.top/2024/07/29/ob/pulsar-client-zero-consumer/)
 - [如何监控 Nginx](http://crossoverjie.top/2024/07/23/ob/how-to-monitoring-nginx/)
 - [分布式系统如何做负载均衡](http://crossoverjie.top/2024/07/15/ob/Pulsar-loadbalance/)
 - [🎉我是如何从零到成为 Apache 顶级项目的 Committer](http://crossoverjie.top/2024/07/11/ob/%F0%9F%8E%89how-to-be-committer/)
 - [✅开源项目如何做集成测试](http://crossoverjie.top/2024/07/09/ob/%E2%9C%85%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%A6%82%E4%BD%95%E5%81%9A%E9%9B%86%E6%88%90%E6%B5%8B%E8%AF%95/)
-- [从 Helm 到 Operator：Kubernetes应用管理的进化](http://crossoverjie.top/2024/07/08/ob/how-operator-working/)
 <!-- BLOG-POST-LIST:END -->
 
 
