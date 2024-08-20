@@ -26,12 +26,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenTelemetry 实战：从零实现分布式链路追踪](http://crossoverjie.top/2024/08/20/ob/OpenTelemetry-01-trace/)
 - [深入理解单元测试：技巧与最佳实践](http://crossoverjie.top/2024/08/15/ob/unit-test/)
 - [Pulsar升级自动化：一键搞定集群升级与测试](http://crossoverjie.top/2024/08/06/ob/Pulsar%20test%20framework/)
 - [Pulsar客户端消费模式揭秘：Go 语言实现 ZeroQueueConsumer](http://crossoverjie.top/2024/07/29/ob/pulsar-client-zero-consumer/)
 - [如何监控 Nginx](http://crossoverjie.top/2024/07/23/ob/how-to-monitoring-nginx/)
 - [分布式系统如何做负载均衡](http://crossoverjie.top/2024/07/15/ob/Pulsar-loadbalance/)
-- [🎉我是如何从零到成为 Apache 顶级项目的 Committer](http://crossoverjie.top/2024/07/11/ob/%F0%9F%8E%89how-to-be-committer/)
 <!-- BLOG-POST-LIST:END -->
 
 
