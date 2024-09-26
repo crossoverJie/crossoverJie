@@ -26,12 +26,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenTelemetry 实战：从 0 到 1 编写一个 Instrumentation](http://crossoverjie.top/2024/09/26/ob/OpenTelemetry-create-instrumentation/)
 - [我用我的270篇文章做了一个数字 AI 替身](http://crossoverjie.top/2024/09/23/ob/Build-ower-AI-robot/)
 - [OpenTelemetry在企业内部应用所需要的技术栈](http://crossoverjie.top/2024/09/15/ob/OpenTelemetry-enterprise/)
 - [日志与追踪的完美融合：OpenTelemetry MDC 实践指南](http://crossoverjie.top/2024/09/05/ob/OpenTelemetry-client-log-mdc/)
 - [OpenTelemetry 实战：gRPC 监控的实现原理](http://crossoverjie.top/2024/08/29/ob/OpenTelemetry-grpc-principle/)
 - [OpenTelemetry 实战：从零实现应用指标监控](http://crossoverjie.top/2024/08/27/ob/OpenTelemetry-02-metrics/)
-- [OpenTelemetry 实战：从零实现分布式链路追踪](http://crossoverjie.top/2024/08/20/ob/OpenTelemetry-01-trace/)
 <!-- BLOG-POST-LIST:END -->
 
 
