@@ -26,12 +26,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [💢线上高延迟请求排查](http://crossoverjie.top/2024/10/29/ob/%F0%9F%92%A2%E7%BA%BF%E4%B8%8A%E9%AB%98%E5%BB%B6%E8%BF%9F%E8%AF%B7%E6%B1%82%E6%8E%92%E6%9F%A5/)
 - [IM系统重构到 SDK 设计的最佳实践](http://crossoverjie.top/2024/10/13/ob/cim-client-sdk/)
 - [StarRocks 开发环境搭建踩坑指北](http://crossoverjie.top/2024/10/09/ob/StarRocks-dev-env-build/)
 - [🤳如何为复杂的 Java 应用编写集成测试](http://crossoverjie.top/2024/09/29/ob/%F0%9F%A4%B3cim-support-integration-test/)
 - [OpenTelemetry 实战：从 0 到 1 编写一个 Instrumentation](http://crossoverjie.top/2024/09/26/ob/OpenTelemetry-create-instrumentation/)
 - [我用我的270篇文章做了一个数字 AI 替身](http://crossoverjie.top/2024/09/23/ob/Build-ower-AI-robot/)
-- [OpenTelemetry在企业内部应用所需要的技术栈](http://crossoverjie.top/2024/09/15/ob/OpenTelemetry-enterprise/)
 <!-- BLOG-POST-LIST:END -->
 
 
