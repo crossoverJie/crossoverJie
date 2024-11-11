@@ -26,12 +26,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [深入理解 StarRocks 的元数据管理](http://crossoverjie.top/2024/11/11/ob/StarRocks-meta/)
 - [时隔五年 9K star 的 IM 项目发布 v2.0.0 了](http://crossoverjie.top/2024/11/04/ob/cim-2.0.0/)
 - [💢线上高延迟请求排查](http://crossoverjie.top/2024/10/29/ob/%F0%9F%92%A2%E7%BA%BF%E4%B8%8A%E9%AB%98%E5%BB%B6%E8%BF%9F%E8%AF%B7%E6%B1%82%E6%8E%92%E6%9F%A5/)
 - [IM系统重构到 SDK 设计的最佳实践](http://crossoverjie.top/2024/10/13/ob/cim-client-sdk/)
 - [StarRocks 开发环境搭建踩坑指北](http://crossoverjie.top/2024/10/09/ob/StarRocks-dev-env-build/)
 - [🤳如何为复杂的 Java 应用编写集成测试](http://crossoverjie.top/2024/09/29/ob/%F0%9F%A4%B3cim-support-integration-test/)
-- [OpenTelemetry 实战：从 0 到 1 编写一个 Instrumentation](http://crossoverjie.top/2024/09/26/ob/OpenTelemetry-create-instrumentation/)
 <!-- BLOG-POST-LIST:END -->
 
 
