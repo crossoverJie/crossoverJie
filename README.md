@@ -26,12 +26,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [如何选择可以搞钱的技术栈](http://crossoverjie.top/2024/11/26/ob/%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9%E5%8F%AF%E4%BB%A5%E6%90%9E%E9%92%B1%E7%9A%84%E6%8A%80%E6%9C%AF%E6%A0%88/)
 - [推荐一些值得学习的开源项目和框架](http://crossoverjie.top/2024/11/20/ob/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%BA%9B%E5%80%BC%E5%BE%97%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%92%8C%E6%A1%86%E6%9E%B6/)
 - [StarRocks 物化视图刷新流程和原理](http://crossoverjie.top/2024/11/18/ob/StarRocks-MV-refresh-Principle/)
 - [深入理解 StarRocks 的元数据管理](http://crossoverjie.top/2024/11/11/ob/StarRocks-meta/)
 - [时隔五年 9K star 的 IM 项目发布 v2.0.0 了](http://crossoverjie.top/2024/11/04/ob/cim-2.0.0/)
 - [💢线上高延迟请求排查](http://crossoverjie.top/2024/10/29/ob/%F0%9F%92%A2%E7%BA%BF%E4%B8%8A%E9%AB%98%E5%BB%B6%E8%BF%9F%E8%AF%B7%E6%B1%82%E6%8E%92%E6%9F%A5/)
-- [IM系统重构到 SDK 设计的最佳实践](http://crossoverjie.top/2024/10/13/ob/cim-client-sdk/)
 <!-- BLOG-POST-LIST:END -->
 
 
