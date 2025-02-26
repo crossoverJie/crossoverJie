@@ -26,12 +26,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [StarRocks 开发环境搭建踩坑指北之存算分离篇](http://crossoverjie.top/2025/02/26/ob/StarRocks-dev-shard-data-build/)
 - [k8s 云原生应用如何接入监控](http://crossoverjie.top/2025/01/02/ob/k8s-monitor-pod/)
 - [Istio 安装过程中遇到的坑](http://crossoverjie.top/2024/12/25/ob/istio-install-problem/)
 - [如何在平淡的工作中整理出有价值的简历](http://crossoverjie.top/2024/12/10/ob/%E5%A6%82%E4%BD%95%E5%9C%A8%E5%B9%B3%E6%B7%A1%E7%9A%84%E5%B7%A5%E4%BD%9C%E4%B8%AD%E6%95%B4%E7%90%86%E5%87%BA%E6%9C%89%E4%BB%B7%E5%80%BC%E7%9A%84%E7%AE%80%E5%8E%86/)
 - [如何选择可以搞钱的技术栈](http://crossoverjie.top/2024/11/26/ob/%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9%E5%8F%AF%E4%BB%A5%E6%90%9E%E9%92%B1%E7%9A%84%E6%8A%80%E6%9C%AF%E6%A0%88/)
 - [推荐一些值得学习的开源项目和框架](http://crossoverjie.top/2024/11/20/ob/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%BA%9B%E5%80%BC%E5%BE%97%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%92%8C%E6%A1%86%E6%9E%B6/)
-- [StarRocks 物化视图刷新流程和原理](http://crossoverjie.top/2024/11/18/ob/StarRocks-MV-refresh-Principle/)
 <!-- BLOG-POST-LIST:END -->
 
 
