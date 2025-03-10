@@ -26,7 +26,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [我的 2024](http://crossoverjie.top/2025/03/03/annual-summary/%E6%88%91%E7%9A%84%202024/)
+- [我的 2024](http://crossoverjie.top/2025/03/03/annual-summary/2024/)
 - [StarRocks 开发环境搭建踩坑指北之存算分离篇](http://crossoverjie.top/2025/02/26/ob/StarRocks-dev-shard-data-build/)
 - [k8s 云原生应用如何接入监控](http://crossoverjie.top/2025/01/02/ob/k8s-monitor-pod/)
 - [Istio 安装过程中遇到的坑](http://crossoverjie.top/2024/12/25/ob/istio-install-problem/)
