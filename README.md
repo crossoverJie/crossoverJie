@@ -26,12 +26,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [如何在本地打包 StarRocks 发行版](http://crossoverjie.top/2025/05/12/ob/StarRocks-build-in-local/)
 - [一年时间从小白成为 OpenTelemetry Member 有感](http://crossoverjie.top/2025/04/15/ob/OTel-member/)
 - [StarRocks 升级注意事项](http://crossoverjie.top/2025/03/14/starrocks/StarRocks-upgrade/)
 - [我的 2024](http://crossoverjie.top/2025/03/03/annual-summary/2024/)
 - [StarRocks 开发环境搭建踩坑指北之存算分离篇](http://crossoverjie.top/2025/02/26/ob/StarRocks-dev-shard-data-build/)
 - [k8s 云原生应用如何接入监控](http://crossoverjie.top/2025/01/02/ob/k8s-monitor-pod/)
-- [Istio 安装过程中遇到的坑](http://crossoverjie.top/2024/12/25/ob/istio-install-problem/)
 <!-- BLOG-POST-LIST:END -->
 
 
