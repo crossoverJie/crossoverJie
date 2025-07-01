@@ -26,12 +26,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [StarRocks 物化视图创建与刷新全流程解析](http://crossoverjie.top/2025/06/27/ob/StarRocks-create-sync/)
 - [关于 Golang 的错误处理的讨论可以大结局了](http://crossoverjie.top/2025/06/05/ob/go-error-future/)
 - [我的 CodeReview 实战经验](http://crossoverjie.top/2025/05/21/ob/codereview-practice/)
 - [如何在本地打包 StarRocks 发行版](http://crossoverjie.top/2025/05/12/ob/StarRocks-build-in-local/)
 - [一年时间从小白成为 OpenTelemetry Member 有感](http://crossoverjie.top/2025/04/15/ob/OTel-member/)
 - [StarRocks 升级注意事项](http://crossoverjie.top/2025/03/14/starrocks/StarRocks-upgrade/)
-- [我的 2024](http://crossoverjie.top/2025/03/03/annual-summary/2024/)
 <!-- BLOG-POST-LIST:END -->
 
 
