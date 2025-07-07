@@ -12,16 +12,9 @@
 
 
 <p align="center"> 
-<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=crossoverjie&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=crossoverJie&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20"/>
 </p>
 
-### 👀 Active Go Repo
-
-
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=crossoverjie&repo=gscript)](https://github.com/crossoverJie/gscript)
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=crossoverjie&repo=distributed-redis-tool)](https://github.com/crossoverJie/distributed-redis-tool)
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=crossoverjie&repo=gjson)](https://github.com/crossoverJie/gjson)
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=crossoverjie&repo=ptg)](https://github.com/crossoverJie/ptg)
 
 
 ### Blogs posts
