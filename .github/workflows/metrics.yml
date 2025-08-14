@@ -30,15 +30,11 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
           config_twemoji: yes
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_limit: 5
-          plugin_activity_load: 312
+          plugin_activity_load: 100
           plugin_activity_visibility: public
           plugin_code: yes
           plugin_code_days: 3
@@ -65,6 +61,3 @@ jobs:
           plugin_people_limit: 17
           plugin_people_size: 28
           plugin_people_types: followers
-          plugin_rss: yes
-          plugin_rss_limit: 4
-          plugin_rss_source: https://crossoverjie.top/atom
