@@ -49,6 +49,7 @@
 <a href="https://istio.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/refs/heads/main/projects/istio/icon/color/istio-icon-color.svg" alt="isito" width="40" height="40"/></a>    
 <a href="https://www.starrocks.io/" target="_blank"> <img src="https://21782839.fs1.hubspotusercontent-na1.net/hubfs/21782839/dark_logo.svg" alt="StarRocks" width="80" height="40"/></a>
 <a href="https://opentelemetry.io/" target="_blank"> <img src="https://opentelemetry.io/img/logos/opentelemetry-horizontal-color.svg" alt="opentelemetry" width="80" height="40"/></a>
+<a href="https://rust-lang.org/" target="_blank"> <img src="https://rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="80" height="40"/></a>
 
 </p>
 
