@@ -32,12 +32,12 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI 如何用 AST 每天对 200 万+ 文件做高质量分块（用于代码搜索）](http://crossoverjie.top/2025/12/29/AI/chunking-2m-files/)
 - [DeepWiki 一个常用 RAG 应用的开发流程](http://crossoverjie.top/2025/12/25/AI/deepwiki-rag-principle/)
 - [大模型应用开发必需了解的基本概念](http://crossoverjie.top/2025/12/23/AI/LLM-app-concept/)
 - [持续剖析超级增强：将 Trace/ Span 和 Profile 整合打通](http://crossoverjie.top/2025/11/25/OpenTelemetry/combining-tracing-and-profiling-for-enhanced-observability-introducing-span-profiles/)
 - [StarRocks 如何监控 SQL](http://crossoverjie.top/2025/11/12/starrocks/StarRocks-SQL-monitor/)
 - [Git cherry-pick 使用小技巧](http://crossoverjie.top/2025/09/18/git/git-tips-cherry-pick/)
-- [在多语言的分布式系统中如何传递 Trace 信息](http://crossoverjie.top/2025/08/13/ob/%E5%9C%A8%E5%A4%9A%E8%AF%AD%E8%A8%80%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E4%B8%AD%E5%A6%82%E4%BD%95%E4%BC%A0%E9%80%92%20Trace%20%E4%BF%A1%E6%81%AF/)
 <!-- BLOG-POST-LIST:END -->
 
 
