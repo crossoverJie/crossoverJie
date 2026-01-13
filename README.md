@@ -32,7 +32,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [代码分割算法分析](http://crossoverjie.top/2026/01/14/AI/splitter-Algorithm-analyse/)
+- [对 AI 更友好的代码分割算法分析](http://crossoverjie.top/2026/01/14/AI/splitter-Algorithm-analyse/)
 - [AI 如何用 AST 每天对 200 万+ 文件做高质量分块（用于代码搜索）](http://crossoverjie.top/2025/12/29/AI/chunking-2m-files/)
 - [DeepWiki 一个常用 RAG 应用的开发流程](http://crossoverjie.top/2025/12/25/AI/deepwiki-rag-principle/)
 - [大模型应用开发必需了解的基本概念](http://crossoverjie.top/2025/12/23/AI/LLM-app-concept/)
