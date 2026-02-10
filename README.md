@@ -32,12 +32,12 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [别再傻等了，给 Claude Code 装个通知铃铛](http://crossoverjie.top/2026/02/09/AI/agent-notifier-skill/)
 - [一行代码没写，用 AI 搓出三个实用 SKILLS](http://crossoverjie.top/2026/02/07/AI/create-skills/)
 - [从 Function Call 到 MCP-&gt; SKILLS：AI Agent 能力扩展的演进之路](http://crossoverjie.top/2026/02/03/AI/MCP-Skills-intro/)
 - [对 AI 更友好的代码分割算法分析](http://crossoverjie.top/2026/01/14/AI/splitter-Algorithm-analyse/)
 - [AI 如何用 AST 每天对 200 万+ 文件做高质量分块（用于代码搜索）](http://crossoverjie.top/2025/12/29/AI/chunking-2m-files/)
 - [DeepWiki 一个常用 RAG 应用的开发流程](http://crossoverjie.top/2025/12/25/AI/deepwiki-rag-principle/)
-- [大模型应用开发必需了解的基本概念](http://crossoverjie.top/2025/12/23/AI/LLM-app-concept/)
 <!-- BLOG-POST-LIST:END -->
 
 
