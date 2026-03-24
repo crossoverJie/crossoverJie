@@ -32,12 +32,12 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [企业大模型应用与 Vibe Coding 实战](http://crossoverjie.top/2026/03/24/AI/%E4%BC%81%E4%B8%9A%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E4%B8%8E-Vibe-Coding-%E5%AE%9E%E6%88%98/)
 - [DeepWiki 优化实战：代码行号与确定性目录生成](http://crossoverjie.top/2026/03/17/AI/deepwiki-optimize-line-number/)
 - [SkillDeck 支持 OpenClaw 了，顺便聊聊小龙虾](http://crossoverjie.top/2026/03/11/AI/skilldeck-openclaw-support/)
 - [全程用 Claude Code 搓了一个 macOS 原生应用：SkillDeck](http://crossoverjie.top/2026/02/24/AI/skilldeck-intro/)
 - [别再傻等了，给 Claude Code 装个通知铃铛](http://crossoverjie.top/2026/02/09/AI/agent-notifier-skill/)
 - [一行代码没写，用 AI 搓出三个实用 SKILLS](http://crossoverjie.top/2026/02/07/AI/create-skills/)
-- [从 Function Call 到 MCP-&gt; SKILLS：AI Agent 能力扩展的演进之路](http://crossoverjie.top/2026/02/03/AI/MCP-Skills-intro/)
 <!-- BLOG-POST-LIST:END -->
 
 
