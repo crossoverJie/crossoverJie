@@ -32,12 +32,12 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [从 Warp 换到 cmux：一个更适合 AI Agent 的终端](http://crossoverjie.top/2026/06/17/AI/cmux-introduce/)
 - [我做了一个 AI 版的 StarRocks 升级风险扫描工具，直接帮我定位到一个风险](http://crossoverjie.top/2026/06/14/starrocks/StarRocks-upgrade-skill-principle/)
 - [[送码] 用 AI Coding 做了一个 App，谈谈 AI Coding 的真实体验](http://crossoverjie.top/2026/05/26/clipshelf/clipshelf-introduce/)
 - [手搓一个 Agent 驱动的项目 Wiki 生成方案](http://crossoverjie.top/2026/05/18/AI/cc-generate-wiki/)
 - [从企业版 Istio 迁移到社区版：一场给高速行驶汽车换轮胎的实践](http://crossoverjie.top/2026/04/15/istio-enterprise-to-community-migration/)
 - [企业大模型应用与 Vibe Coding 实战](http://crossoverjie.top/2026/03/24/AI/%E4%BC%81%E4%B8%9A%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E4%B8%8E-Vibe-Coding-%E5%AE%9E%E6%88%98/)
-- [DeepWiki 优化实战：代码行号与确定性目录生成](http://crossoverjie.top/2026/03/17/AI/deepwiki-optimize-line-number/)
 <!-- BLOG-POST-LIST:END -->
 
 
