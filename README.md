@@ -32,12 +32,12 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [注意：StarRocks 3.5.x 滚动升级触发 MV 全量刷新问题](http://crossoverjie.top/2026/07/24/starrocks/StarRocks-rolling-upgrade-MV-force-refresh/)
 - [读完 Bun 用 Rust 重写：1 个人 11 天重写 50 万行代码是怎么做到的](http://crossoverjie.top/2026/07/12/AI/bun-rewrite-rust-reading-notes/)
 - [我的 Claude Code 常用 SKILLS 和工具](http://crossoverjie.top/2026/06/29/AI/claudecode-skills-tools/)
 - [AI Coding Agent 时代，我自己最常用的 4 个终端工具](http://crossoverjie.top/2026/06/22/AI/terminal-tools-for-ai-coding-agent/)
 - [从 Warp 换到 cmux：一个更适合 AI Agent 的终端](http://crossoverjie.top/2026/06/17/AI/cmux-introduce/)
 - [I Built an AI-Powered StarRocks Upgrade Risk Scanner — And It Caught a Real Risk](http://crossoverjie.top/2026/06/14/starrocks/StarRocks-upgrade-skill-principle-en/)
-- [我做了一个 AI 版的 StarRocks 升级风险扫描工具，直接帮我定位到一个风险](http://crossoverjie.top/2026/06/14/starrocks/StarRocks-upgrade-skill-principle/)
 <!-- BLOG-POST-LIST:END -->
 
 
