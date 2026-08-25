@@ -32,12 +32,12 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [我做了一个 比 openclaw/workbuddy 更适合自己的用 Agent](http://crossoverjie.top/2026/08/25/AI/botler-agent-intro/)
 - [减脂用微信零碎记录饮食，剩下的交给 Agent](http://crossoverjie.top/2026/08/11/AI/%E5%BE%AE%E4%BF%A1%E9%9B%B6%E7%A2%8E%E8%AE%B0%E5%BD%95%E9%A5%AE%E9%A3%9F-%E4%BA%A4%E7%BB%99Agent/)
 - [MCP大版本发布：无状态核心、破坏性变更，以及它到底省不省 token](http://crossoverjie.top/2026/07/30/AI/mcp-2026-07-28-release/)
 - [注意：StarRocks 3.5.x 滚动升级触发 MV 全量刷新问题](http://crossoverjie.top/2026/07/24/starrocks/StarRocks-rolling-upgrade-MV-force-refresh/)
 - [读完 Bun 用 Rust 重写：1 个人 11 天重写 50 万行代码是怎么做到的](http://crossoverjie.top/2026/07/12/AI/bun-rewrite-rust-reading-notes/)
 - [我的 Claude Code 常用 SKILLS 和工具](http://crossoverjie.top/2026/06/29/AI/claudecode-skills-tools/)
-- [AI Coding Agent 时代，我自己最常用的 4 个终端工具](http://crossoverjie.top/2026/06/22/AI/terminal-tools-for-ai-coding-agent/)
 <!-- BLOG-POST-LIST:END -->
 
 
